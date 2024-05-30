@@ -1,0 +1,22 @@
+h2{
+    text-decoration: underline; font-size: 2em; 
+ }
+ caption{
+     font-size: 1.7em; 
+ }
+ p{
+    font-size: 1.7em;
+ }
+ .G-titre{
+    text-decoration: underline; font-size: 1.5em; 
+ }
+ table{
+    border-collapse: collapse; width: 75%; font-size: 1.5em;
+ }
+ td,th
+ {
+    border: 1.5px solid black; 
+ }
+ body{
+    background-image: url(fondecran6.jpeg);
+ }
